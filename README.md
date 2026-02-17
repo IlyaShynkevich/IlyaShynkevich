@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ilya 👋
 
-<!--
-**IlyaShynkevich/IlyaShynkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student based in Germany 🇩🇪  
+Focused on Software & Web Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages:**  
+Java • Python • JavaScript • C • SQL  
+
+**Web Development:**  
+HTML • CSS • REST APIs  
+
+**Tools & Technologies:**  
+Git • VS Code • Arduino IDE • MQTT  
+
+---
+
+## 🚀 Projects
+
+Here are some of my highlighted projects:
+
+- Web-based Attendance Management System  
+- IoT Dashboard with MQTT & ESP32  
+- Image Processing: Unsharp Mask Implementation (Python)
+- Harry Potter Wand Store App (Dart)
+
+## 📫 Contact
+
+LinkedIn: ([LinkedIn Profile](https://www.linkedin.com/in/ilya-shynkevich-42141b399/))  
+Email: (shynkevichilya@gmail.com)
