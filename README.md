@@ -8,7 +8,7 @@ I build real-time systems, IoT dashboards, and data-driven applications — from
 ## 💻 Tech Stack
 
 **Languages:**  
-Java • Python • C • JavaScript • Dart • SQL
+JavaScript • Dart • C • SQL • Python
 
 **Web & Desktop:**  
 HTML • CSS • Vanilla JS • Canvas API • Electron • REST APIs
