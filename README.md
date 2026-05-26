@@ -1,33 +1,54 @@
 # Hi, I'm Ilya 👋
 
-Computer Science student based in Germany 🇩🇪  
-Focused on Software & Web Development.
+Computer Science student based in Berlin 🇩🇪  
+I build real-time systems, IoT dashboards, and data-driven applications — from embedded hardware all the way up to desktop and web UIs.
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages:**  
-Java • Python • JavaScript • C • SQL  
+Java • Python • C • JavaScript • Dart • SQL
 
-**Web Development:**  
-HTML • CSS • REST APIs  
+**Web & Desktop:**  
+HTML • CSS • Vanilla JS • Canvas API • Electron • REST APIs
 
-**Tools & Technologies:**  
-Git • VS Code • Arduino IDE • MQTT  
+**Embedded & IoT:**  
+ESP32 • Raspberry Pi • OX64 • MQTT • USB Serial (SerialPort)
+
+**Tools:**  
+Git • GitHub • Arduino IDE • HiveMQ • Flutter
 
 ---
 
 ## 🚀 Projects
 
-Here are some of my highlighted projects:
+### 🛰️ CanSat Ground Station
+Real-time telemetry platform for the **CanSat Competition** (organised by the American Astronautical Society, sponsored by NASA & Siemens).  
+Built with Electron — features live rolling plots, 3D IMU visualisation, GPS mapping, packet loss monitoring, command interface, and CSV simulation mode.  
+**Qualified for international finals in Virginia, USA.**  
+→ [View repo](https://github.com/IlyaShynkevich/cansat_ground_station_dashboard)
 
-- Web-based Attendance Management System  
-- IoT Dashboard with MQTT & ESP32  
-- Image Processing: Unsharp Mask Implementation (Python)
-- Harry Potter Wand Store App (Dart)
+### 🌍 Climatiq Emissions Dashboard
+Carbon emissions tracker for small businesses — CSV ingestion, CO₂e calculation, trend analysis, forecasting, and what-if simulations.  
+Built entirely with vanilla JS and the HTML Canvas API (no charting libraries).  
+→ [View repo](https://github.com/IlyaShynkevich/Climatiq_Dashboard)
+
+### 🖐️ Gesture Control System
+Real-time gesture control dashboard using an ESP32 with ultrasonic sensors, streaming data over MQTT/HiveMQ to a browser-based UI.  
+→ [View repo](https://github.com/IlyaShynkevich/gesture_control_system)
+
+### 🧾 Kiosk Sales Dashboard
+Browser-based analytics dashboard for kiosk sales data from Excel reports, with bilingual (RU/EN) UI and Netlify deployment.  
+→ [View repo](https://github.com/IlyaShynkevich/kiosk-sales-dashboard)
+
+### 🎓 Student Attendance System
+Full-stack web application for managing student attendance records — frontend, database, and UI components.  
+→ [View repo](https://github.com/IlyaShynkevich/student_attendance_frontend)
+
+---
 
 ## 📫 Contact
 
-LinkedIn: ([LinkedIn Profile](https://www.linkedin.com/in/ilya-shynkevich-42141b399/))  
-Email: (shynkevichilya@gmail.com)
+- 📧 [shynkevichilya@gmail.com](mailto:shynkevichilya@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ilya-shynkevich-42141b399/)
