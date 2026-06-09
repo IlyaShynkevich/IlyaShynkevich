@@ -26,7 +26,7 @@ Git • GitHub • Arduino IDE • HiveMQ • Flutter
 ### 🛰️ CanSat Ground Station
 Real-time telemetry platform for the **CanSat Competition** (organised by the American Astronautical Society, sponsored by NASA & Siemens).  
 Built with Electron — features live rolling plots, 3D IMU visualisation, GPS mapping, packet loss monitoring, command interface, and CSV simulation mode.  
-**Qualified for international finals in Virginia, USA.**  
+**Competed at the international finals in Virginia, USA — placed 14th out of 36 teams worldwide."**  
 → [View repo](https://github.com/IlyaShynkevich/cansat_ground_station_dashboard)
 
 ### 🌍 Climatiq Emissions Dashboard
