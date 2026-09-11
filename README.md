@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,50:1b4332,100:40916c&height=200&section=header&text=Ilya%20Shynkevich&fontSize=45&fontColor=d8f3dc&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineer&descAlignY=55&descSize=18&descColor=95d5b2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,50:1b4332,100:40916c&height=200&section=header&text=Ilya%20Shynkevich&fontSize=45&fontColor=d8f3dc&animation=fadeIn&fontAlignY=36&desc=Software%20Developer&descAlignY=55&descSize=18&descColor=95d5b2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=74C69D&center=true&vCenter=true&width=800&height=40&lines=Full-Stack+Developer;B.Sc.+Computer+Science+%40+SRH+Berlin;Software+Developer+%40+Persobots;Building+things+end-to-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=74C69D&center=true&vCenter=true&width=800&height=40&lines=Software+Developer;B.Sc.+Computer+Science+%40+SRH+Berlin;Real-time+systems+%26+IoT+dashboards;From+embedded+hardware+to+web+UIs" alt="Typing SVG" />
 
 <br/>
 
@@ -20,15 +20,14 @@
 ```yaml
 name: Ilya Shynkevich
 location: Berlin, Germany
-role: Software Developer @ Persobots
+role: Software Developer
 education: B.Sc. Computer Science — SRH Berlin (final year)
-focus:
-  - full-stack web development
-  - backend services & APIs
-  - frontend interfaces
-  - data & telemetry systems
+builds:
+  - real-time systems
+  - IoT dashboards
+  - data-driven applications
+range: embedded hardware → desktop → web UIs
 contact: shynkevichilya@gmail.com
-open_to: full-stack roles, freelance work, open source
 ```
 
 <br/>
@@ -39,19 +38,27 @@ open_to: full-stack roles, freelance work, open source
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=js,dart,c,py&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/SQL-1B4332?style=for-the-badge&logo=postgresql&logoColor=95D5B2"/>
 
-**Frontend**
+**Web & Desktop**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,electron&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Canvas%20API-1B4332?style=for-the-badge&logo=html5&logoColor=95D5B2"/>
+<img src="https://img.shields.io/badge/REST%20APIs-1B4332?style=for-the-badge&logo=fastapi&logoColor=95D5B2"/>
 
-**Backend & Databases**
+**Embedded & IoT**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/ESP32-1B4332?style=for-the-badge&logo=espressif&logoColor=95D5B2"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-1B4332?style=for-the-badge&logo=raspberrypi&logoColor=95D5B2"/>
+<img src="https://img.shields.io/badge/OX64-1B4332?style=for-the-badge&logo=riscv&logoColor=95D5B2"/>
+<img src="https://img.shields.io/badge/MQTT-1B4332?style=for-the-badge&logo=mqtt&logoColor=95D5B2"/>
+<img src="https://img.shields.io/badge/SerialPort-1B4332?style=for-the-badge&logo=serialport&logoColor=95D5B2"/>
 
-**Tools & DevOps**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,flutter&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/HiveMQ-1B4332?style=for-the-badge&logo=eclipsemosquitto&logoColor=95D5B2"/>
 
 </div>
 
@@ -67,44 +74,62 @@ open_to: full-stack roles, freelance work, open source
 
 <br/>
 
-## 🚀 Featured Work
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ SkyBound — CanSat 2026
-Built the full ground station software: live telemetry ingest, data decoding, and a real-time mission dashboard for a 10-person team.
+### 🛰️ [CanSat Ground Station](https://github.com/IlyaShynkevich/cansat_ground_station_dashboard)
+Real-time telemetry platform for the **CanSat Competition** (American Astronautical Society; sponsored by NASA & Siemens). Live rolling plots, 3D IMU visualisation, GPS mapping, packet loss monitoring, command interface, CSV simulation mode.
 
-`Python` · `Real-time UI` · `Data Pipelines`
+`Electron` · `JavaScript` · `Serial`
 
-**🏆 14th place — Virginia, USA**
+**🏆 14th of 36 teams — international finals, Virginia, USA**
 
 </td>
 <td width="50%" valign="top">
 
-### 🍳 Persobots
-Software development for commercial kitchen automation systems at a Berlin company.
+### 🌍 [Climatiq Emissions Dashboard](https://github.com/IlyaShynkevich/Climatiq_Dashboard)
+Carbon emissions tracker for small businesses — CSV ingestion, CO₂e calculation, trend analysis, forecasting, and what-if simulations.
 
-`Backend` · `Automation` · `Systems Integration`
+`Vanilla JS` · `Canvas API`
 
-**Status:** Ongoing
+**Built with zero charting libraries**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack Projects
-Web applications built end-to-end — from database schema and API design through to the frontend.
+### 🖐️ [Gesture Control System](https://github.com/IlyaShynkevich/gesture_control_system)
+Real-time gesture control dashboard using an ESP32 with ultrasonic sensors, streaming over MQTT/HiveMQ to a browser UI.
 
-`React` · `Node.js` · `PostgreSQL`
+`ESP32` · `MQTT` · `HiveMQ`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [Kiosk Sales Dashboard](https://github.com/IlyaShynkevich/kiosk-sales-dashboard)
+Browser-based analytics for kiosk sales data from Excel reports, with a bilingual (RU/EN) UI.
+
+`JavaScript` · `Netlify`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [Student Attendance System](https://github.com/IlyaShynkevich/student_attendance_frontend)
+Full-stack web application for managing student attendance records — frontend, database, and UI components.
+
+`Full-Stack` · `SQL`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📌 More
-Pinned repositories below cover coursework, side projects, and experiments.
+Pinned repositories below cover coursework, experiments, and side projects.
 
 </td>
 </tr>
@@ -124,7 +149,7 @@ Pinned repositories below cover coursework, side projects, and experiments.
 
 <div align="center">
 
-<sub><i>Open to full-stack opportunities and collaboration — feel free to reach out.</i></sub>
+<sub><i>Open to software development opportunities — feel free to reach out.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916c,50:1b4332,100:081c15&height=120&section=footer" width="100%"/>
 
