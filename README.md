@@ -6,6 +6,7 @@
 
 <br/>
 
+<a href="https://ilya-shynkevich.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1B4332?style=for-the-badge&logo=vercel&logoColor=95D5B2"/></a>
 <a href="https://www.linkedin.com/in/ilya-shynkevich-42141b399/"><img src="https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=95D5B2"/></a>
 <a href="mailto:shynkevichilya@gmail.com"><img src="https://img.shields.io/badge/Email-1B4332?style=for-the-badge&logo=gmail&logoColor=95D5B2"/></a>
 <a href="https://github.com/IlyaShynkevich"><img src="https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge&logo=github&logoColor=95D5B2"/></a>
@@ -27,6 +28,7 @@ builds:
   - IoT dashboards
   - data-driven applications
 range: embedded hardware → desktop → web UIs
+portfolio: ilya-shynkevich.vercel.app
 contact: shynkevichilya@gmail.com
 ```
 
